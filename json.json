@@ -1,0 +1,12 @@
+{
+    "string" : "nasreddine",
+    "number" : 100,
+    "object" :{
+        "EG":"giza",
+        "Ksa":"riyad",
+    },
+    "array":["Html","Css","JS"],
+    "boolean":"true",
+    "null":null
+}
+
